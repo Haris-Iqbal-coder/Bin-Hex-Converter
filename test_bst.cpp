@@ -1,6 +1,5 @@
 //========================================================
-// Unit 2: Group 4
-// Linh Nguyen & Muhammad Haris Iqbal
+// Muhammad Haris Iqbal
 // test_bst.cpp
 //========================================================
 #include <stdlib.h>
